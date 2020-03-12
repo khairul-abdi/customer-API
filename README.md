@@ -1,6 +1,6 @@
 # Customer API
 
-### In this App, we need 5 dependencies below:
+### In this App, we need 3 dependencies below:
 
 - Express
 - Body Parser
