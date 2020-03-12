@@ -37,7 +37,7 @@ Successfully connected to the database.
    ![alt text](https://github.com/khairul-abdi/customer-API/blob/master/img/1.png 'Create a new Customer')
 
    - After create a customer
-     ![alt text](https://github.com/khairul-abdi/customer-API/blob/master/img/1a.png 'After create customer')
+     ![alt text](https://github.com/khairul-abdi/customer-API/blob/master/img/1a.png)
 
    - After creating some new Customers, we can check MySQL table:
      ![alt text](https://github.com/khairul-abdi/customer-API/blob/master/img/1b.png)
