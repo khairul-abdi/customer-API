@@ -37,6 +37,7 @@ Successfully connected to the database.
    ![alt text](https://github.com/khairul-abdi/customer-API/blob/master/img/1.png)
 
    - After create a customer
+
      ![alt text](https://github.com/khairul-abdi/customer-API/blob/master/img/1a.png)
 
    - After creating some new Customers, we can check MySQL table:
@@ -64,4 +65,5 @@ Successfully connected to the database.
    ![alt text](https://github.com/khairul-abdi/customer-API/blob/master/img/6.png)
 
    - Now there are no rows in customers table:
+
      ![alt text](https://github.com/khairul-abdi/customer-API/blob/master/img/6a.png)
