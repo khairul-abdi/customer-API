@@ -33,5 +33,5 @@ Successfully connected to the database.
 
 #### Using Postman, we’re gonna test all the Apis above.
 
-- Create a new Customer using POST /customers Api
-  ![alt text](https://github.com/khairul-abdi/customer-API/blob/master/img/1.png 'Create a new Customer')
+- 1. Create a new Customer using POST /customers Api
+     ![alt text](https://github.com/khairul-abdi/customer-API/blob/master/img/1.png 'Create a new Customer')
