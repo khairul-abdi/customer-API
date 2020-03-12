@@ -10,7 +10,7 @@ module.exports = app => {
   app.get('/customers/:customerId', customers.findOne)
 
   // Update a Customer with customerId
-  app.put('/customers/:customerId', customers.delete)
+  app.put('/customers/:customerId', customers.update)
 
   // Delete a Customer with customerId
   app.delete('/customers/:customerId', customers.delete)
