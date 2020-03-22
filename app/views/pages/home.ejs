@@ -1,0 +1,19 @@
+<%- include ('../partials/header') %>
+
+<main>
+  <div class="jumbotron">
+    <h1>This is great <%= page %></h1>
+    <p>Welcome to templating using EJS & Bootstrap</p>
+  </div>
+  <h1>Data Type Ejs</h1>
+  <h2>Variable</h2>
+  <p><%= tagline %></p>
+  <h2>Loop</h2>
+  <ul>
+    <% drinks.forEach(function(drink) { %>
+    <li><%= drink.name %> - <%= drink.drunkness %></li>
+    <% }) %>
+  </ul>
+</main>
+
+<%- include ('../partials/footer') %>
