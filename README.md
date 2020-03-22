@@ -25,7 +25,7 @@ App Run On: http://localhost:3000
 
 ```
 
-### Test the APIs
+### Test the Customer APP
 
 ```bash
 Server is running on port 3000.
