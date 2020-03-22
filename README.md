@@ -1,4 +1,4 @@
-# Customer API
+# Customer Rest API
 
 ### In this App, we need 3 dependencies below:
 
