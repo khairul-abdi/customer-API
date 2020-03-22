@@ -1,6 +1,6 @@
-# Customer APP
+# CRUD Customer APP
 
-### In this App, we need 3 dependencies below:
+### In this App, we need 4 dependencies below:
 
 - Express
 - Body Parser
