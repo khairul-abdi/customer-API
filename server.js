@@ -40,7 +40,7 @@ app.use(function (err, req, res, next) {
 })
 
 // set port
-const port = process.env.PORT || 8080
+const port = process.env.PORT || 3000
 
 // listen for request
 app.listen(port, () =>
